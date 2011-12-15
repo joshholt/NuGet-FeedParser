@@ -6,7 +6,7 @@
   "version": "0.4.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joshholt/nuget-feedparser.git"
+    "url": "git://github.com/joshholt/NuGet-FeedParser"
   },
   "keywords": ["rss", "feed", "atom", "rdf", "xml", "syndication", "nuget"],
   "main": "./lib/feedparser",
