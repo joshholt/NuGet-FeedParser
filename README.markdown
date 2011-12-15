@@ -14,7 +14,7 @@ This module adds methods for RSS, Atom, RDF and now NuGet feed parsing in node.j
 ## Example
 
 ```javascript
-var FeedParser = require('feedparser')
+var FeedParser = require('nuget-feedparser')
   , parser
 
 parser = new FeedParser();
