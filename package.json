@@ -3,7 +3,7 @@
   "author": "Dan MacTough <danmactough@gmail.com>",
   "author": "Josh Holt <holt.josh@gmail.com>",
   "description": "Robust RSS, Atom, and RDF feed parsing using sax js + NuGet Feeds",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/joshholt/NuGet-FeedParser"
